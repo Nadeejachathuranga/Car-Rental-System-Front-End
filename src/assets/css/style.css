@@ -13,3 +13,9 @@
     margin-left: 0px;
     font-weight: bold;
 }
+.sideTextBox{
+    position: absolute;
+    top: 0px;
+    margin-top: 150px;
+    margin-left: 850px;
+}
